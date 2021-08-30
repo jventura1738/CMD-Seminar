@@ -2,9 +2,9 @@
 
 Director: Justin Ventura
 
-Organizers: Justin Ventura, Blaine Mason, Jacob Duncan + CS & Math Club
+Organizers: Justin Ventura, Blaine Mason, Jacob Duncan
 
-Guests (Tentative): Stephen Ventura, Ian Thomas
+Guests (Tentative): Stephen Ventura, Ian Thomas + CS & Math Club
 
 ## Seminar Schedule
 
