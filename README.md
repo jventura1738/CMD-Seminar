@@ -14,4 +14,8 @@ No seminar this week, just giving announcements and advertising the seminar.
 
 ### Academic Week 2: Introduction and Computational Thinking Lecture
 
-TBA
+Introducing ourselves, then talking about COSC/MATH/DSCI major careers.  Conclude with the video on computational thinking.
+
+### Academic Week 3: Number Systems
+
+We will learn about number systems, then do a few activities on converting a number from one base to another!
