@@ -6,7 +6,7 @@ Organizers: Justin Ventura, Blaine Mason, Jacob Duncan
 
 Guests (Tentative): Stephen Ventura, Ian Thomas + CS & Math Club
 
-## Seminar Schedule (Thursdays 5-6PM in HS150)
+## Seminar Schedule ([https://sucmd.vercel.app/])
 
 Jan 31: Announcements & Awareness
 
