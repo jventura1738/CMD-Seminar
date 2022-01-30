@@ -8,30 +8,32 @@ Guests (Tentative): Stephen Ventura, Ian Thomas + CS & Math Club
 
 ## Seminar Schedule (Thursdays 5-6PM in HS150)
 
-September 9th: Introduction to Seminar & Computational Thinking
+Jan 31: Announcements & Awareness
 
-September 9th: Number Systems
+Feb 7: Computational Thinking & Number Systems
 
-September 16th: Mathematics & Logic
+Feb 14: Linux Terminal, Vim, GitHub
 
-September 23rd: Statistical Inference (Univ. of Pittsburgh Guest)
+Feb 21: Array & Linked Lists + Algorithms
 
-September 30th: Introduction to Algorithmic Thinking
+Feb 28: How to Interpret Data (University of Pittsburgh Guest)
 
-October 7th: Basic Cryptography
+Mar 7: Limits & Asymptotic Analysis (Big O)
 
-October 14th: Programming Languages
+Mar 14: Trees, Stacks, Queues, Heaps
 
-October 21st: Introduction to GitHub
+Mar 21 SPRING BREAK BONUS: Hashing & Information Security
 
-October 28th: Data Analysis (Univ. of Pittsburgh Guest)
+Mar 28: Front-End Web Development Concepts
 
-November 4th: Getting Involved / Resume Building
+Apr 4: Back-End Web Development Concepts
 
-November 11th: Research Info Session (Carnegie Mellon Univ. Guest)
+Apr 11: Graphs, Hash Tables/Sets
 
-November 18th: Industry Info Session (UNC Chapel Hill Guest)
+Apr 18: Fair & Unbiased Data Visualization (UNC Chapel Hill Guest)
 
-December 2nd: CMD Community Involvement Info Session
+Apr 25: Machine Learning I: Regression (U Pitt Guest)
 
-December 9th: Conclusion Seminar (Sign-ups for Seminar 1S)
+May 2: Machine Learning II: Clustering Algorithms
+
+May 9: Industry vs. Academia
