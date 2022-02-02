@@ -4,7 +4,7 @@ Director: Justin Ventura
 
 Organizers: Justin Ventura, Blaine Mason, Jacob Duncan
 
-Guests (Tentative): Stephen Ventura, Ian Thomas + CS & Math Club
+Guests (Tentative): Stephen Ventura, Ian Thomas + CS & Math Club & Others
 
 ## Seminar Schedule ([https://sucmd.vercel.app/])
 
