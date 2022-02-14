@@ -10,16 +10,16 @@ Guests (Tentative): Stephen Ventura, Ian Thomas + CS & Math Club & Others
 
 Jan 31: Announcements & Awareness
 
-[x] Feb 7: Computational Thinking & Number Systems
+Feb 7: Computational Thinking & Number Systems
 - Decimal & Binary conversion.
 - Computational and Algorithmic Thinking.
 
-[x] Feb 14: Linux Terminal, Vim, GitHub
+Feb 14: Linux Terminal, Vim, GitHub
 - Terminal commands and tricks.
 - How to use Vim.
 - Introduction to GitHub.
 
-[ ] Feb 21: Array & Linked Lists + Algorithms
+Feb 21: Array & Linked Lists + Algorithms
 - Linear Searching on an array.
 - What is a Binary Search?
 - Linked Lists and Applications.
